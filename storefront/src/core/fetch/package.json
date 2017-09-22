@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "fetch",
+  "main": "./fetch.server.js",
+  "browser": "./fetch.client.js"
+}
+
+
+//Today' Work :
+//-->In Shopkul project, searched themes for admin panel.
+//-->Setup project
+//-->Search for bootstrap theme for login, registration page.
